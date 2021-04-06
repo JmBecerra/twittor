@@ -269,7 +269,7 @@ textarea {
     #titulo,
     #titulo-mensaje {
         position: relative;
-        top: 10px;
+        top: 15px;
     }
     #cancel-btn {
         top: 40px !important;
